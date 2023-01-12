@@ -5,3 +5,7 @@ guys how are
 you
 
 }
+bus 
+lorry 
+car 
+train
